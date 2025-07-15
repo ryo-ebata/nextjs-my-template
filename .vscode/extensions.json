@@ -1,0 +1,20 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "anysphere.remote-containers",
+        "ms-ceintl.vscode-language-pack-ja",
+        "pkief.material-icon-theme",
+        "bradlc.vscode-tailwindcss",
+        "ms-vscode.vscode-typescript-next",
+        "oderwat.indent-rainbow",
+        "mohd-akram.vscode-html-format",
+        "ecmel.vscode-html-css",
+        "naumovs.color-highlight",
+        "streetsidesoftware.code-spell-checker",
+        "anthropic.claude-code",
+        "biomejs.biome",
+        "wayou.vscode-todo-highlight",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}
